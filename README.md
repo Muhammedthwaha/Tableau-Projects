@@ -2,7 +2,7 @@
 
 # 🏙️ Airbnb NYC Data Analysis — *Tableau Dashboard*
 
-![Airbnb Banner](https://github.com/Muhammedthwaha/-Video-Games-Interactive-Sales-Dashboard-Tableau-Project/blob/main/airbnb%20banner.jpg?raw=true)
+![Airbnb Banner](https://github.com/Muhammedthwaha/-Airbnb-NYC-Data-Analysis-Tableau-Dashboard/blob/main/airbnb.jpg)
 
 ## 📊 **Project Overview**
 
@@ -62,7 +62,6 @@ The dashboard provides an interactive and visually rich breakdown of Airbnb list
 
 ## 🗺️ **Dashboard Preview**
 
-*(Add your dashboard image here if needed)*
 ![Dashboard Preview](Dashboard%201.png)
 
 ---
