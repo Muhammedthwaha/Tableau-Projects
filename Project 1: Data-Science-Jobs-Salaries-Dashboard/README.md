@@ -10,7 +10,7 @@
 
 ## 🖼️ **Dashboard Preview**
 
-![Dashboard Preview](https://github.com/Muhammedthwaha/-Data-Science-Jobs-Salaries-Dashboard-Tableau-/blob/main/Dashboard%201.png)
+![Dashboard Preview](Dashboard 1.png)
 
 ---
 
