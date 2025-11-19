@@ -2,7 +2,7 @@
 
 # 🏙️ Airbnb NYC Data Analysis — *Tableau Dashboard*
 
-![Airbnb Banner](https://github.com/Muhammedthwaha/-Airbnb-NYC-Data-Analysis-Tableau-Dashboard/blob/main/airbnb.jpg)
+![Airbnb Banner](https://github.com/Muhammedthwaha/Tableau-Projects/blob/main/Project%205%3A%20Airbnb-NYC-Data-Analysis-Dashboard/airbnb.jpg)
 
 ## 📊 **Project Overview**
 
