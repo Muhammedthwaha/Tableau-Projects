@@ -1,104 +1,121 @@
-##📊 Data Science Jobs Salaries Dashboard (Tableau)
-🔗 Live Dashboard:
 
-👉 View on Tableau Public:
-https://public.tableau.com/views/Portfolio_project_1DataScienceJobssalariesdashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+# 🌟 **Data Science Jobs Salaries Dashboard (Tableau)**
+
+🔗 **Live Dashboard:**
+👉 **View on Tableau Public:**
+[https://public.tableau.com/views/Portfolio_project_1DataScienceJobssalariesdashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Portfolio_project_1DataScienceJobssalariesdashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
+## 🖼️ **Dashboard Preview**
 
 ![Dashboard Preview](https://github.com/Muhammedthwaha/-Data-Science-Jobs-Salaries-Dashboard-Tableau-/blob/main/Dashboard%201.png)
 
+---
 
-📘 Overview
+## 📘 **Overview**
 
-This project presents a comprehensive Tableau dashboard analyzing salaries across various roles in the Data Science & Analytics industry.
-Using the Data Science Job Salaries Dataset, this visualization reveals patterns in salary, experience level, employment type, company size, location, and job titles.
+This project features a comprehensive **Tableau dashboard** analyzing **Data Science & Analytics industry salaries** across different roles, countries, company sizes, experience levels, and employment types.
 
-The dashboard enables users to quickly explore global trends and gain insights into compensation structures across the data field.
+Using the *Data Science Job Salaries* dataset, the dashboard reveals global salary trends and compensation insights, helping users understand how data-related jobs vary across the world.
 
-🖼️ Dashboard Preview
+---
 
-✅ Key Features of the Dashboard
+## ✨ **Key Features of the Dashboard**
 
-📌 1. Average Salary by Experience Level & Employment Type
+### 📌 **1. Average Salary by Experience Level & Employment Type**
 
-Full-time vs. part-time salary comparisons
+* Compare full-time, part-time, freelance roles
+* Salary trends for entry, mid-level, senior & expert roles
 
-Entry-level, mid-level, senior, and expert salary ranges
+### 📌 **2. Total Companies by Size & Location**
 
-📌 2. Total Companies by Size & Location
+* Breakdown of small, medium, and large companies
+* Understand which organizations dominate the data job market
 
-Company size distribution: small, medium, large
+### 📌 **3. Average Salary by Country (World Map)**
 
-Understanding which types of companies dominate data job markets
+* Global salary distribution
+* Identify high and low-paying regions
 
-📌 3. Average Salary by Country (World Map)
+### 📌 **4. Top 10 Employee Residences**
 
-Geographic visualization of salary differences
+* Countries with the most professionals in the dataset
 
-Highlights countries with the highest and lowest compensation
+### 📌 **5. Experience Level Distribution**
 
-📌 4. Top 10 Employee Residences
+* Percentage share of workforce across experience tiers
 
-Countries with the highest number of professionals in the dataset
+### 📌 **6. Employment Type Distribution**
 
-📌 5. Experience Level Distribution
+* Full-time, part-time, contracting, freelance
 
-Percentage share of professionals by experience tier
+### 📌 **7. Salary by Job Title & Experience Level**
 
-📌 6. Employment Type Distribution
+Covers roles such as:
 
-Full-time, part-time, freelance share
+* Data Analyst
+* Data Scientist
+* Machine Learning Engineer
+* AI Scientist
+* BI Analyst
+* Data Engineer
+* And more…
 
-📌 7. Salary by Job Title & Experience Level
+---
 
-Detailed salary breakdown for roles like:
+## 📂 **Project Files Included**
 
-Data Analyst
+```
+📄 Portfolio_project_1 Data Science Jobs salaries dashboard.twb  
+📄 ds_salaries.csv  
+🖼️ Dashboard 1.png
+```
 
-Data Scientist
+---
 
-Machine Learning Engineer
+## 🛠️ **Tools & Technologies**
 
-AI Scientist
+* Tableau Desktop / Tableau Public
+* Excel / CSV Data Source
+* (Optional) Python & Pandas for preprocessing
+* Visualizations: Geo Maps, Donut Charts, Bar Charts, Scatter Plots
 
-BI Analyst
+---
 
-Data Engineer
+## 🚀 **Insights & Observations**
 
-and more…
+* Senior-level professionals earn the **highest salaries globally**
+* Full-time employment makes up **97%+** of the dataset
+* The **United States** has the highest concentration of data professionals
+* **Medium-sized companies** provide the most job opportunities
+* Wide salary variations exist across countries and roles
 
-📂 Project Files Included
-Portfolio_project_1 Data Science Jobs salaries dashboard.twb — Tableau workbook
-ds_salaries.csv — Dataset used for analysis
-Dashboard 1.png — Dashboard preview image
+---
 
-🛠️ Tools & Technologies
-Tableau Desktop / Tableau Public
-Excel / CSV data source
-Data wrangling: Python / Pandas (optional)
-Visualization: Geomaps, donut charts, bar charts, scatter plots
+## 📈 **How to Explore the Dashboard**
 
-🚀 Insights & Observations
-Senior professionals earn the highest salaries globally
-Full-time employment dominates the dataset (97%+)
-The US has the largest share of data professionals
-Medium-sized companies contribute the most job roles
-Significant salary variance exists across countries
+1. Open the Tableau Public link
+2. Use filters to explore:
 
-📈 How to Explore the Dashboard
-Open the live Tableau link
-Interact with filters to analyze:
-Job title
-Employment type
-Country
-Experience level
-Hover for additional tooltips and deeper insights
+   * Job Title
+   * Employment Type
+   * Country
+   * Experience Level
+3. Hover over visuals for tooltips & deeper insights
 
-💡 Future Enhancements
+---
 
-Adding forecast models for salary trends
-Integrating real-time salary datasets
-Creating interactive story pages in Tableau
+## 💡 **Future Enhancements**
 
-🤝 Connect
+* Add forecast models for future salary trends
+* Integrate live salary datasets
+* Build interactive multi-page Tableau storyboards
 
-Feel free to contribute, suggest improvements, or reach out for collaboration.
+---
+
+## 🤝 **Connect**
+
+Feel free to collaborate, contribute ideas, or reach out for improvements.
+
